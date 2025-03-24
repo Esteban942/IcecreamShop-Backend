@@ -16,7 +16,7 @@ The application uses Docker and PostgreSQL for database management, and integrat
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Esteban942/IceCreamShopEcommerce.git
+   git clone https://github.com/Esteban942/IcecreamShop-Backend.git
    cd your-repo
    ```
 
@@ -90,7 +90,7 @@ The application uses Docker and PostgreSQL for database management, and integrat
 ---
 ## 📚 API Documentation
 
-The API is fully documented using Swagger (OpenAPI). You can find the documentation in the `swagger` folder at `IceCreamShopEcommerce/internal/api/swagger/swagger.yaml`.
+The API is fully documented using Swagger (OpenAPI). You can find the documentation in the `swagger` folder at `IcecreamShop-Backend/internal/api/swagger/swagger.yaml`.
 
 ---
 Built by Esteban Mena and Mateo Lazarte 
